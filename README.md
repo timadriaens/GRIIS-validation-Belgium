@@ -2,12 +2,18 @@
 Validation of Belgian checklist in the Global Register of Introduced and Invasive Species
 
 # Purpose
-The purpose is to confront the unified TrIAS checklist with the country-level checklist in the Global Register of Introduced and Invasive Species (GRIIS). This way, GRIIS can be validated for Belgium. To that purpose, every species record in GRIIS
+The purpose is to confront the unified TrIAS checklist with the country-level checklist in the Global Register of Introduced and Invasive Species (GRIIS). This way, GRIIS can be validated for Belgium. To that purpose, every species record in GRIIS should be checked with regards to species presence as well as the information contained in the register (introduction date, pathway, impact). Species lacking from GRIIS should be provided to IUCN. 
 
 # Background
 The IUCN Invasive Species Specialist Group (ISSG) is working on the development of the Global Register of Introduced and Invasive Species (GRIIS, https://www.nature.com/articles/sdata2017202) within the framework of the Convention of Biological Diversity (CBD) initiative – the Global Invasive Alien Species Information Partnership – a partnership of global invasive species information providers. GRIIS is presented online in the form of validated and verified country level annotated inventories of introduced and invasive species, some of which were already published as checklists on GBIF (https://www.gbif.org/news/80f4taFSTu8kgkMU2qcqe/national-alien-species-lists-published-through-gbif). Annotations include higher taxonomy and biological status at the country level (provenance –native or alien status and invasiveness). GRIIS also documents date of introduction or first record, pathway of introduction information if available and evidence of impact with all source information referenced. GRIIS verifies the records of species presence and biological status in all the country inventories through a network of nominated country editors. 
 
-# Data
+# Datasets acquired
+
+GISD-Vocabularies-2014.xlsx : list of vocabularies used in the Global Invasive Species Database (GISD). All GRIIS data is harmonised with this vocabulary.
+
+Belgium-GRIIS-2015-Reviewer-WRIMS-tagged.xls  : the most recent extract acquired (26/01/2016) from GRIIS for Belgium, which includes the RINSE register and an extract of WRIMS for marine species.
+
+# Data description
 Several sources are mentioned in the dataset for the Belgian GRIIS register. The three major sources checked include Harmonia, publication on Neophytes by P Verloove, the RINSE dataset and other databases (DAISIE etc.). A literature survey was conducted and any other annotations recorded. Brief description of annotations (source: email from Shyama Pagad, Program Officer IUCN SSC Invasive Species Specialist Group, 15/10/2014):
 
 ·       A-B  Country name and code
@@ -51,3 +57,6 @@ Several sources are mentioned in the dataset for the Belgian GRIIS register. The
 ·       AF   Reference code
 
 ·       AG & AH Notes
+
+
+
