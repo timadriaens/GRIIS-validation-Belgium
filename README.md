@@ -13,6 +13,8 @@ GISD-Vocabularies-2014.xlsx : list of vocabularies used in the Global Invasive S
 
 Belgium-GRIIS-2015-Reviewer-WRIMS-tagged.xls  : the most recent extract acquired (26/01/2016) from GRIIS for Belgium, which includes the RINSE register and an extract of WRIMS for marine species.
 
+WRIMS_distributions_20151005-Belgium-extraction.xlsx : an extraction from WRIMS for Belgium (acquired 26/01/2016), which was used in GRIIS (highlighted in Belgium-GRIIS-2015-Reviewer-WRIMS-tagged.xls) 
+
 # Data description
 Several sources are mentioned in the dataset for the Belgian GRIIS register. The three major sources checked include Harmonia, publication on Neophytes by P Verloove, the RINSE dataset and other databases (DAISIE etc.). A literature survey was conducted and any other annotations recorded. Brief description of annotations (source: email from Shyama Pagad, Program Officer IUCN SSC Invasive Species Specialist Group, 15/10/2014):
 
